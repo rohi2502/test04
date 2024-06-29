@@ -6,7 +6,7 @@ class Person
 {
     public virtual void Greet()
     {
-        Console.WriteLine("Hi! I am a person.");
+        Console.WriteLine("Hi! I am a user.");
     }
 }
 
